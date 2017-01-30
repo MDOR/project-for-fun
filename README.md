@@ -1,10 +1,10 @@
 # project-for-fun
 
 ## Desccription
-Develop a responsive page using [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/), the topic is related with a Bank and you have to suggest the design of the project.
+Develop a responsive page using [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/), the topic will be related with a Bank and you have to suggest the design of the project (See at the bottom of the page).
 
 ## Requirements
-In addition the required topics for the project are:
+The required topics for the project are:
 
 - The page should mobile first
 - Use [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/)
@@ -13,7 +13,7 @@ In addition the required topics for the project are:
 - The site should be responsive.
 - The sections for the project are:
   - Login
-    - Define the section to show this element
+    - Define the section to show this element.
   - Header
     - It should be sticky.
   - Navigation Bar
@@ -21,9 +21,9 @@ In addition the required topics for the project are:
     - At least one element into the navigation bar should be 1 dropdown menu.
   - Carousel
   - Interest Content
-    - This section should include a title
-    - This section should include a description
-    - This section should include at least 3 links   
+    - This section should include a title.
+    - This section should include a description.
+    - This section should include at least 3 links. 
     - Use an Ajax call to retrieve this information. 
   - Interest links
      - Use 3 columns to display links. 
