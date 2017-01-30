@@ -1,0 +1,20 @@
+body {
+  background: url('https://static1.squarespace.com/static/5079f3f884ae362b5e77c4d0/t/50f60709e4b0780ace27a797/1358300941498/Background.jpg?format=1500w');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-main {
+  margin-top: 100px;
+}
+.logIn-form {
+  background: rgba(10,10,10,.5);
+  min-width: 500px;
+  padding: 45px;
+  color: #FFF;
+}
+.logIn-form label {
+  color: #FFF;
+}
+.logIn-form .row.column {
+  margin: 0;
+}
