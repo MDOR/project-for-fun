@@ -1,12 +1,13 @@
 # project-for-fun
 
 ## Desccription
-Develop a responsive page using [Foundation](http://foundation.zurb.com/sites/docs/), the topic is related with a Bank and you have to suggest the design of the project.
+Develop a responsive page using [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/), the topic is related with a Bank and you have to suggest the design of the project.
 
 ## Requirements
-in addition the required topics for the project are:
+In addition the required topics for the project are:
 
-- Use [Foundation](http://foundation.zurb.com/sites/docs/)
+- The page should mobile first
+- Use [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/)
 - Use HTML 5 and CSS 3.
 - The code should be semantic.
 - The site should be responsive.
